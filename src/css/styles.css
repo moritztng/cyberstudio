@@ -1,0 +1,6 @@
+@import "./typography.css";
+
+body {
+  margin: 0;
+  font-family: "Blender Pro", -apple-system, "Roboto", "sans-serif", "serif";
+}

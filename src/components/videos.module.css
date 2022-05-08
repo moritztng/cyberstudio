@@ -1,0 +1,6 @@
+.video {
+  width: 70vw;
+  height: 39.4vw;
+  max-width: 1920px;
+  max-height: min(1080px, 100vh);
+}

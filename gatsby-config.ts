@@ -3,9 +3,12 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Cyberstudio`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://cyberstudio.app`,
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
 }
 
 export default config
