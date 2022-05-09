@@ -9,37 +9,10 @@
 
 @font-face {
   font-family: 'Blender Pro';
-  src: local('Blender Pro Thin Italic'), local('BlenderPro-ThinItalic'),
-      url('../fonts/BlenderPro-ThinItalic.woff2') format('woff2'),
-      url('../fonts/BlenderPro-ThinItalic.woff') format('woff');
-  font-weight: 100;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Blender Pro';
   src: local('Blender Pro Heavy'), local('BlenderPro-Heavy'),
       url('../fonts/BlenderPro-Heavy.woff2') format('woff2'),
       url('../fonts/BlenderPro-Heavy.woff') format('woff');
   font-weight: 900;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Blender Pro Book';
-  src: local('Blender Pro Book Italic'), local('BlenderPro-BookItalic'),
-      url('../fonts/BlenderPro-BookItalic.woff2') format('woff2'),
-      url('../fonts/BlenderPro-BookItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Blender Pro Book';
-  src: local('Blender Pro Book'), local('BlenderPro-Book'),
-      url('../fonts/BlenderPro-Book.woff2') format('woff2'),
-      url('../fonts/BlenderPro-Book.woff') format('woff');
-  font-weight: normal;
   font-style: normal;
 }
 
@@ -49,15 +22,6 @@
       url('../fonts/BlenderPro-Bold.woff2') format('woff2'),
       url('../fonts/BlenderPro-Bold.woff') format('woff');
   font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Blender Pro';
-  src: local('Blender Pro Thin'), local('BlenderPro-Thin'),
-      url('../fonts/BlenderPro-Thin.woff2') format('woff2'),
-      url('../fonts/BlenderPro-Thin.woff') format('woff');
-  font-weight: 100;
   font-style: normal;
 }
 

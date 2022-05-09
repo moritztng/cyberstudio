@@ -13,7 +13,14 @@ const Main = () => {
         <div className={title}>Cyberstudio</div>
         <div className={description}>Turn Text into Video</div>
       </div>
-      <StaticImage className={mockup} src="../images/mockup.png" alt="mockup" loading="eager" objectFit="contain" placeholder="none" quality={90} />
+      <StaticImage 
+        className={mockup}
+        src="../images/mockup.png"
+        alt="mockup"
+        loading="eager"
+        objectFit="contain"
+        placeholder="none"
+        quality={90} />
       <div className={buttons}>
         <a className={button} onClick={() => setVideosOpen(true)}>Play Video</a>
         <a className={button} href="https://face.cyberstudio.app">Open Studio</a>

@@ -2,7 +2,7 @@ import * as React from 'react'
 import Modal from 'react-modal'
 import { video } from './videos.module.css'
 
-const Videos = ( { isOpen, onClose }: { isOpen: boolean; onClose: Function; }) => {
+const Videos = ({ isOpen, onClose }: { isOpen: boolean; onClose: Function; }) => {
   return (
     <Modal 
       isOpen={isOpen}

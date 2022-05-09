@@ -4,3 +4,10 @@
   max-width: 1920px;
   max-height: min(1080px, 100vh);
 }
+
+@media screen and (max-width: 768px) {
+  .video {
+    width: 100vw;
+    height: 56.3vw;
+  }
+}
