@@ -95,6 +95,8 @@
     text-align: center;
     border-radius: 0;
     font-size: 30px;
+    user-select: none;
+    -webkit-user-select: none;
     -webkit-tap-highlight-color: transparent;
   }
 }
