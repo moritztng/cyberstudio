@@ -1,6 +1,6 @@
 # Cyberstudio
 
-[Cyberstudio](https://cyberstudio.app) turns text into facial animation. You can customize the scene, voice and background music. It's based on a neural net that turns text into speech and another one that turns speech into facial animation.
+Cyberstudio turns text into facial animation. You can customize the scene, voice and background music. It's based on a neural net that turns text into speech and another one that turns speech into facial animation.
 
 https://user-images.githubusercontent.com/19519902/185166343-967b1b5b-be54-4042-99c7-e2e0525208ef.mp4
 
